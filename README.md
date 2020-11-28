@@ -1,25 +1,34 @@
 # Meet SB
-Meet SB(Study buddy) is an Android App that helps UCSD Students formulate study groups. Registered users can use the app to find people who enrolled the same class as them, chat with their app friends and update their class schedule every quarter.
+Meet SB(Study buddy) is an Android App that helps UCSD Students formulate study groups. Registered users can use the app to find people who enrolled the same class as them, chat with their app friends and update their class schedule every quarter.(Link to our funny video: https://www.youtube.com/watch?v=kvadtZz3ujI)
 
 ## Developer
 
-Team SB
-Denghui Chen		Kuanghanying Zhao	    Mu He	 
-Sihan Sun		    Sutianyi Wen	      	Weilin Liu
-Xinpei Tan			Yuting Xu		          Zhongyu Chen	
+Denghui Chen&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Kuanghanying Zhao&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Mu He   
+
+
+Sihan Sun&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Sutianyi Wen&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Weilin Liu   
+
+
+Xinpei Tan&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Yuting Xu&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Zhongyu Chen   
+
+
 Zhaoyi Li
 
 ## Screen Shots
-User information:
+User information:  
+
 ![1](images/1.png)
 
-Main Activity Screen:
+Main Activity Screen:  
+
 ![2](images/2.png)
 
-Chat Room Service:
+Chat Room Service:  
+
 ![3](images/3.png)
 
-Add Class page:
+Add Class page:  
+
 ![4](images/4.png)
 
 
